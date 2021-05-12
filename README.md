@@ -3,56 +3,44 @@ where i do the ratatoing book but in rust
 
 ## this is a long list
 
-- [ ] 2021-05-17 simple 2d
+- [ ] 2021-05-10 simple 2d
   - [ ] ch 1
   - [ ] ch 2
   - [ ] ch 3
-- [ ] 2021-05-24 intro to rendering geometry
+- [ ] 2021-05-17 intro to rendering geometry
   - [ ] ch 4
   - [ ] ch 5
-- [ ] 2021-05-31 intro to modeling
+- [ ] 2021-05-24 intro to modeling
   - [ ] ch 7.1–7.9
   - [ ] ch 8
   - [ ] ch 9
   - [ ] ch 22.1–22.4
   - [ ] ch 23.1–23.3
   - [ ] ch 24.1–24.5
-- [ ] 2021-06-07 images 1
+- [ ] 2021-05-31 images
   - [ ] ch 17
   - [ ] ch 18.1-18.11
-- [ ] 2021-06-14 images 2
-  - [ ] ch 18.12-18.20
-  - [ ] ch 19
-- [ ] 2021-06-21 2d and 3d transfermation
+  - [ ] skim rest of ch 18 and 19
+- [ ] 2021-06-07 2d and 3d transformation
   - [ ] ch 10.1–10.12
   - [ ] ch 11.1–11.3
   - [ ] ch 12
-- [ ] 2021-06-28 viewing and cameras
+- [ ] 2021-06-14 viewing and cameras
   - [ ] ch 13.1-13.7
   - [ ] ch 15.6.4
-- [ ] 2021-07-05 standard approximations
+- [ ] 2021-06-21 standard approximations
   - [ ] ch 14
-- [ ] 2021-07-12 rasterization and ray casting
+- [ ] 2021-06-28 rasterization and ray casting
   - [ ] ch 15
-- [ ] 2021-07-19 light and reflection
+- [ ] 2021-07-05 light and reflection
   - [ ] ch 26.1–26.7
   - [ ] ch 26.10
-- [ ] 2021-07-26 color
+- [ ] 2021-07-12 color
   - [ ] ch 28.1–28.12
-- [ ] 2021-08-02 light transport
-  - [ ] ch 27.1–27.5
-  - [ ] ch 29.1–29.2
-  - [ ] ch 29.6
-  - [ ] ch 29.8
-- [ ] 2021-08-09 recursive ray tracing
-  - [ ] ch 24.9
-  - [ ] ch 31.16
-  - [ ] ch 20.1–20.6
-- [ ] 2021-08-16 visible surface determination
-  - [ ] ch 31 (selection)
-  - [ ] ch 36 (selection)
-  - [ ] ch 37 (selection)
-- [ ] 2021-08-23 shaders and hardware 
-  - [ ] ch 16.3–5
+- [ ] 2021-07-19 shaders and hardware i
+  - [ ] ch 16
   - [ ] ch 33
   - [ ] ch 38
+- [ ] 2021-07-26 misc remaining stuff
+  - [ ] ch 37
+  - [ ] ch 22
